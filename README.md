@@ -6,7 +6,7 @@ A simple game in which the phone tries to guess the selected number.
 
 This is my second application written in React Native. I learned how to install the SDK and use it. The SDKs I used are LinearGradient and AppLoading. In addition, I learned how to run complex projects with more components.
 My first application created with React Native during the course.
-
+I still need to fix a few things.
 
 ## 🛠 Skills
 
